@@ -1,0 +1,28 @@
+
+
+Starting up. 14:44.00
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Unknown setting in configuration: 'admin_legacy_system'
+Unknown setting in configuration: 'ban_legacy_system'
+Unknown game mode probability configuration definition: restructuring.
+Unknown game mode probability configuration definition: monkey.
+Unknown setting in configuration: 'ticklag'
+Saved mode is 'extended'
+[14:44:00]ADMIN: Loading jobban_rank
+[14:44:00]ADMIN: jobban_keylist was empty
+[14:44:00]ADMIN: Updating jobbanfile!
+[14:44:00]ADMIN: Loading Banlist
+[14:44:14]ACCESS: Login: Swaggaboy112/(Swaggaboy112) from 127.0.0.1-4038766596 || BYOND v514
+[14:45:15]ACCESS: Logout: Swaggaboy112/(Swaggaboy112)

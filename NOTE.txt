@@ -1,0 +1,11 @@
+
+FPStation 13, based on rev 1008 6/17/14 (its really 1011, but the only changes were to make it work with modern byond and to increase the LAC's internal volume)
+
+Issues:
+The last revs of FPStation sadly had power (and potentially lighting) be several levels of fucked because carn broke it and left it broke.
+So expect those to likely not work well, if at all.
+
+Warning:
+Also be aware various crashing stuff hasnt been fixed/patched.
+The big one that comes to mind is how paper can be used to crash the server with a script or something.
+Also there is NO utf scanning code that I know of.
